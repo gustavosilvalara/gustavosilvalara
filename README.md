@@ -7,6 +7,8 @@ Me chamo Gustavo Silva Lara, realizei o curso técnico de informática para inte
 - 📫 Entre em contato comigo pelo email: gustavo.sillva.lara@gmail.com
 - 😄 Pronomes: ele/dele
 
+<a href="https://www.linkedin.com/in/gustavo-silva-lara-93b541364/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
