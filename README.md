@@ -1,6 +1,9 @@
-## Olá, eu sou o Gustavo Silva Lara 👋
+## 👨🏻‍💻 Gustavo Silva Lara
 
-- 🌱 Estudante de Ciência da Computação, focado em Java
+**`Estudante de ciência da computação, focado em java`**
+
+Me chamo Gustavo Silva Lara, realizei o curso técnico de informática para interent, em uma escola estadual da zona norte de São Paulo. Atualmente, cursando ciência da computação na UNIP. Sou apaixonado por técnologia a partir dos meus 12 anos de idade, que obtive contato com o computador. Me aprofundando a cada dia em java.
+
 - 📫 Entre em contato comigo pelo email: gustavo.sillva.lara@gmail.com
 - 😄 Pronomes: ele/dele
 
@@ -69,6 +72,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 
