@@ -5,7 +5,7 @@
 Me chamo Gustavo Silva Lara, realizei o curso técnico de informática para interent, em uma escola estadual da zona norte de São Paulo. Atualmente, cursando ciência da computação na UNIP. Sou apaixonado por técnologia a partir dos meus 12 anos de idade, que obtive contato com o computador. Me aprofundando a cada dia em java.
 
 ## Sobre mim
--💻 Ténico em informática para a internet.<br/>
+-💻 Técnico em informática para a internet.<br/>
 -📝 Graduando em ciência da computação. <br/>
 -📚 Estudando Java, Spring, MySQL.
 
