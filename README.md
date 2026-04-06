@@ -64,3 +64,11 @@ Me chamo Gustavo Silva Lara, realizei o curso técnico de informática para inte
 
 
 <br></br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavosilvalara/gustavosilvalara/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavosilvalara/gustavosilvalara/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavosilvalara/gustavosilvalara/output/pacman-contribution-graph.svg">
+</picture>
+
+###
