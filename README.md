@@ -6,7 +6,7 @@ Me chamo Gustavo Silva Lara, realizei o curso técnico de informática para inte
 
 ## Sobre mim
 -💻 Técnico em informática para a internet.<br/>
--📝 Graduando em ciência da computação. <br/>
+-📝 Graduando em Análise e Desenvolviemnto de Sistemas. <br/>
 -📚 Estudando Java, Spring, MySQL.
 
 <a href="https://www.linkedin.com/in/gustavo-silva-lara-93b541364/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
