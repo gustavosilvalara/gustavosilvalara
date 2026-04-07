@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Gustavo Silva Lara
 
-**`Estudante de ciência da computação, focado em java`**
+**`Estudante de Análise e Desenvolvimento de Sistemas, focado em java`**
 
 Me chamo Gustavo Silva Lara, realizei o curso técnico de informática para interent, em uma escola estadual da zona norte de São Paulo. Atualmente, cursando Análise e Desenvolvimento de Sistemas pela FIAP. Sou apaixonado por técnologia a partir dos meus 12 anos de idade, que obtive contato com o computador. Me aprofundando a cada dia em java.
 
