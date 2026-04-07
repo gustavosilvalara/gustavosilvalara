@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas, focado em java`**
 
-Me chamo Gustavo Silva Lara, realizei o curso técnico de informática para interent, em uma escola estadual da zona norte de São Paulo. Atualmente, cursando Análise e Desenvolvimento de Sistemas pela FIAP. Sou apaixonado por técnologia a partir dos meus 12 anos de idade, que obtive contato com o computador. Me aprofundando a cada dia em java.
+Me chamo Gustavo Silva Lara, realizei o curso técnico de informática para internet, em uma escola estadual da zona norte de São Paulo. Atualmente, cursando Análise e Desenvolvimento de Sistemas pela FIAP. Sou apaixonado por técnologia a partir dos meus 12 anos de idade, que obtive contato com o computador. Me aprofundando a cada dia em java.
 
 ## Sobre mim
 -💻 Técnico em informática para a internet.<br/>
